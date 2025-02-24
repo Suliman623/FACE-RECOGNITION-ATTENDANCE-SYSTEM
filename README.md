@@ -18,7 +18,7 @@ Ensure you have the following dependencies installed before running the project:
 - NumPy
 - Pandas
 - Face Recognition Library
-- Tkinter (for GUI, if applicable)
+- Streamlit (for GUI)
 - SQLite/MySQL (for database storage)
 
 ## Installation
